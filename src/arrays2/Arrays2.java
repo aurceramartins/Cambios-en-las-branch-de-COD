@@ -6,6 +6,7 @@ public class Arrays2 {
         String[] nomeXog = {"aa", "bb", "ee", "cc", "dd"};
         int[] dorsais = {5, 2, 9, 1, 7};
         Metodos.visualizar(nomeXog, dorsais);
+        //cambio para cod
 
     }
 
